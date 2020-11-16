@@ -17,3 +17,9 @@ The Android App Market on Google Play
 The GitHub History of the Scala Language
 
 Predicting Credit Card Approvals
+
+Dr. Semmelweis and the Discovery of Handwashing (R)
+
+Drunken Datetimes in Ames, Iowa (R)
+
+Clustering Bustabit Gambling Behavior (R)
