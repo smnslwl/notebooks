@@ -8,7 +8,7 @@ A collection of notebooks.
 
 [Exploring 67 years of LEGO](DataCamp%20-%20Exploring%2067%20years%20of%20LEGO/notebook.ipynb)
 
-[Dr. Semmelweis and the Discovery of Handwashing](Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)
+[Dr. Semmelweis and the Discovery of Handwashing](DataCamp%20-%20Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)
 
 [A Visual History of Nobel Price Winners](DataCamp%20-%20A%20Visual%20History%20of%20Nobel%20Prize%20Winners/notebook.ipynb)
 
